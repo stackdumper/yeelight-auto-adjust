@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ambient-light-sensor": "0.0.1",
+    "brightness": "3.0.0",
     "bluebird": "^3.5.1",
     "miio": "^0.15.5",
     "node-yeelight": "^1.0.6"
